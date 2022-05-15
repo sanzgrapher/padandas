@@ -1,10 +1,12 @@
 # Padandas Logs and Documentations
+[Padandas Live View](https://padandas.com/)
 ---
-- [# Padandas Logs and Documentations](#-padandas-logs-and-documentations)
-  - [Launch](#launch)
-- [Team](#team)
-- [Technologies Used](#technologies-used)
-- [Logs](#logs)
+- [Padandas Logs and Documentations](#padandas-logs-and-documentations)
+  - [Padandas Live View](#padandas-live-view)
+    - [Launch](#launch)
+  - [Team](#team)
+  - [Technologies Used](#technologies-used)
+  - [Logs](#logs)
 
 ---
 ### Launch
